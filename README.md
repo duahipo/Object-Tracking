@@ -4,7 +4,7 @@ L’Intelligence Artificielle (IA) et le Deep Learning ont révolutionné la vis
 Autonomous vehicles are becoming more common in various industries, but the use of autonomous maritime vehicles is still being studied. This is because controlling these vehicles requires making important decisions about design, propulsion, payload management, and communication systems, which can lead to errors and collisions. One major challenge is detecting other ships and objects in real-time to avoid collisions. Recently, deep learning techniques based on convolutional neural networks (CNNs) have been developed to help with this, such as YOLOv8 and EfficientDet. This paper examines how these methods can be used to detect ships. We trained and tested these two models on a large maritime dataset. On examining the performance of the two models we have compared the working of both.
 
 # Motivation
-- AMVs revolutionize waterway technology with AI, sensors, and autonomy.
+- revolutionize waterway technology with AI, sensors, and autonomy.
 
 - Growing demand for offshore exploration and surveillance fuels AMV usage.
 
@@ -44,17 +44,10 @@ A Python script specifying the thresholds, network paths and images to recognize
 Our trained model correctly recognises the item (ship) in images and videos
 The model was able to recognise the item not only in photos, but also in real time/inputted videos.
 
-## Ship Detection in Video
-https://github.com/IshitaKnj/Yolov8_ship_detection/assets/71023544/2e8bf966-a47b-4eaa-a974-f9e5ea7ed42c
-
-## Ship Detection in Images
-
-<img src="https://github.com/IshitaKnj/Yolov8_ship_detection/assets/71023544/d3c2b0c2-1f94-415c-934e-6a925b49c796" height = "500" width="500">
-<img src="https://github.com/IshitaKnj/Yolov8_ship_detection/assets/71023544/a68eb43c-f391-4809-b046-e57bde65f705" height = "500" width="500">
-
 ## Final Result of our research:
-
-![image](https://github.com/IshitaKnj/Yolov8_vs_Efficientdet_in_ship_detection/assets/70091050/c121d269-8517-4631-a031-50fdd8773557)
+-in Results folder
+-Ship Detection in Video
+-Ship Detection in Images
 ### Datasets used :
 - Singapore Maritime Dataset for Testing the model
 - Roboflow Ship2 Image Dataset for Training the model
