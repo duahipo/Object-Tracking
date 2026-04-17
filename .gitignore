@@ -1,0 +1,15 @@
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# ML outputs
+runs/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
