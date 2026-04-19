@@ -34,12 +34,13 @@ The current research aims to improve reliability, safety, and energy efficiency 
 - Enhanced detection of small and distant objects.
 - Evaluation of algorithms in real-world maritime scenarios.
 - Consideration of regulatory and ethical aspects.
+#
 <img width="2250" height="1500" alt="image" src="https://github.com/user-attachments/assets/edd115e6-b3ed-4de5-bf12-e0f479877500" />
-<\n>
+#
 <img width="2250" height="1500" alt="image" src="https://github.com/user-attachments/assets/37b933d7-951c-4077-81b5-0b94d9fbd1dd" />
-<\n>
+
+#
 <img width="2250" height="1500" alt="image" src="https://github.com/user-attachments/assets/c4a67c56-5b67-4d2e-8888-e4a113769ce0" />
-<\n>
   # Objectives:
 - To evaluate the performance of two state-of-the-art deep learning algorithms, YOLOv8 and EfficientDet, for object detection in autonomous maritime vehicles
 -  To compare the performance of these algorithms on a real-world dataset of maritime objects and evaluate their accuracy, computational efficiency, and generalizability
@@ -50,13 +51,15 @@ Our trained model correctly recognises the item (ship) in images and videos
 The model was able to recognise the item not only in photos, but also in real time/inputted videos.
 #
 <img width="1248" height="1248" alt="image" src="https://github.com/user-attachments/assets/d709b5eb-9d0c-4efa-972f-c652ec2c8c15" />
-<\n>
+#
 <img width="1248" height="1248" alt="image" src="https://github.com/user-attachments/assets/2f08c6c3-98d0-41c9-a8cf-83a78e06881a" />
-<\n>
+
+#
 <img width="505" height="580" alt="image" src="https://github.com/user-attachments/assets/0c41b807-f76a-4f68-a13b-fac4f2b2160b" />
-<\n>
+
+#
 <img width="1248" height="1248" alt="image" src="https://github.com/user-attachments/assets/d431f616-5794-4743-b83f-85be8305613e" />
-<\n>
+
 #
 ## Final Result of our research:
 -in Results folder
