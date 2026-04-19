@@ -1,4 +1,4 @@
-<img width="1248" height="1248" alt="image" src="https://github.com/user-attachments/assets/acf1fa47-b97a-42d9-b6d7-c7260942e2fe" /># Yolov8_vs_Efficientdet_in_ship_detection
+# Yolov8_vs_Efficientdet_in_ship_detection
 L’Intelligence Artificielle (IA) et le Deep Learning ont révolutionné la vision par ordinateur, permettant aux machines de comprendre et d’analyser des images avec une précision remarquable. Parmi ces avancées, la détection d’objets joue un rôle essentiel pour identifier et localiser automatiquement des éléments présents dans une scène.
 # Introduction
 Autonomous vehicles are becoming more common in various industries, but the use of autonomous maritime vehicles is still being studied. This is because controlling these vehicles requires making important decisions about design, propulsion, payload management, and communication systems, which can lead to errors and collisions. One major challenge is detecting other ships and objects in real-time to avoid collisions. Recently, deep learning techniques based on convolutional neural networks (CNNs) have been developed to help with this, such as YOLOv8 and EfficientDet. This paper examines how these methods can be used to detect ships. We trained and tested these two models on a large maritime dataset. On examining the performance of the two models we have compared the working of both.
@@ -35,11 +35,11 @@ The current research aims to improve reliability, safety, and energy efficiency 
 - Evaluation of algorithms in real-world maritime scenarios.
 - Consideration of regulatory and ethical aspects.
 <img width="2250" height="1500" alt="image" src="https://github.com/user-attachments/assets/edd115e6-b3ed-4de5-bf12-e0f479877500" />
-</n>
+<\n>
 <img width="2250" height="1500" alt="image" src="https://github.com/user-attachments/assets/37b933d7-951c-4077-81b5-0b94d9fbd1dd" />
-</n>
+<\n>
 <img width="2250" height="1500" alt="image" src="https://github.com/user-attachments/assets/c4a67c56-5b67-4d2e-8888-e4a113769ce0" />
-</n>
+<\n>
   # Objectives:
 - To evaluate the performance of two state-of-the-art deep learning algorithms, YOLOv8 and EfficientDet, for object detection in autonomous maritime vehicles
 -  To compare the performance of these algorithms on a real-world dataset of maritime objects and evaluate their accuracy, computational efficiency, and generalizability
@@ -48,16 +48,16 @@ The current research aims to improve reliability, safety, and energy efficiency 
 A Python script specifying the thresholds, network paths and images to recognize wass used to test the new model. 
 Our trained model correctly recognises the item (ship) in images and videos
 The model was able to recognise the item not only in photos, but also in real time/inputted videos.
-</n>
+#
 <img width="1248" height="1248" alt="image" src="https://github.com/user-attachments/assets/d709b5eb-9d0c-4efa-972f-c652ec2c8c15" />
-</n>
+<\n>
 <img width="1248" height="1248" alt="image" src="https://github.com/user-attachments/assets/2f08c6c3-98d0-41c9-a8cf-83a78e06881a" />
-</n>
+<\n>
 <img width="505" height="580" alt="image" src="https://github.com/user-attachments/assets/0c41b807-f76a-4f68-a13b-fac4f2b2160b" />
-</n>
+<\n>
 <img width="1248" height="1248" alt="image" src="https://github.com/user-attachments/assets/d431f616-5794-4743-b83f-85be8305613e" />
-</n>
-
+<\n>
+#
 ## Final Result of our research:
 -in Results folder
 -Ship Detection in Video
